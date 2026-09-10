@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sogolafkhami.github.io/agency/sitemap.xml
